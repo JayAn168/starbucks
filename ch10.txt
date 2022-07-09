@@ -1,0 +1,37 @@
+오픈 그래프(메타) : 페이스북, 카톡 등
+og:type
+    페이지의 유형
+    ex) website, video
+og:site_name
+    속한 사이트의 이름
+og:title
+    페이지의 이름(제목)
+og:description 
+    페이지의 간단한 설명
+og:image
+    페이지의 대표 이미지 주소(URL)
+og:URL 
+    페이지 주소(URL)
+
+트위터 카드
+twitter:card
+    페이지(카드)의 유형(E.g. summary, player)
+twitter:site
+    속한 사이트의 이름
+twitter:title
+    페이지의 이름(제목)
+twitter:description
+    페이지의 간단한 설명
+twitter:image
+    페이지의 대표 이미지 주소(URL)
+twitter:url
+    페이지 주소(URL)
+
+javascript:void(0)
+    a 태그에서 아직 사이트가 정해지지 않았을때 임시적으로 쓰는 것
+
+BEM(Block Element Modifier)
+    HTML 클래스 속성의 작명법
+        요소__일부분 : underscore 기호로 요소의 일부분을 표시
+        요소--상태 : Hyphen 기호로 요소의 상태를 표시
+
